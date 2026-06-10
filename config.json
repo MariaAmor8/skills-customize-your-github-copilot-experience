@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithms-search-sort",
+      "title": "Algorithms — Search and Sort Fundamentals",
+      "description": "Implement and compare basic search and sorting algorithms; include simple timing and checks.",
+      "path": "assignments/algorithms-search-sort",
+      "dueDate": "2026-06-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
